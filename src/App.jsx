@@ -9,7 +9,7 @@ import EditStudent from "./Components/EditStudent";
 
 import logo from "./assets/logo.png";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "./App.css";
+import "./app.css";
 
 function App() {
   return (
